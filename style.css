@@ -1,0 +1,10 @@
+.table {
+    border: 1px solid #ddd;
+    font-size: 15px;
+    min-width: 600px;
+    text-align: center;
+}
+.table td {
+    border: 1px solid #ddd;
+    height: 30px;
+}
